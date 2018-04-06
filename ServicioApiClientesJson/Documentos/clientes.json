@@ -1,0 +1,118 @@
+{
+  "clientes": [
+    {
+      "idcliente": 1,
+      "nombre": "DELOREAN",
+      "paginaweb": "http://www.delorean.es",
+      "imagencliente": "http://i.blogs.es/a21356/delorean2/650_1200.jpg"
+    },
+    {
+      "idcliente": 2,
+      "nombre": "RICARDO TUBBS",
+      "paginaweb": "http://www.ricardotubss.es",
+      "imagencliente": "https://lafayettewright.files.wordpress.com/2011/02/miami20vice08.jpg"
+    },
+    {
+      "idcliente": 3,
+      "nombre": "JOHNNY UTAH",
+      "paginaweb": "http://www.lellamanbodhi.es",
+      "imagencliente": "http://qiibo.qiibo.netdna-cdn.com/wp-content/uploads/2014/02/pointbreak__span.jpg"
+    },
+    {
+      "idcliente": 5,
+      "nombre": "PINKY WINKY",
+      "paginaweb": "http://www.pinkywinki.es",
+      "imagencliente": "http://pix-media.s3.amazonaws.com/blog/827/tinky1.png"
+    },
+    {
+      "idcliente": 6,
+      "nombre": "OPTIMUS PRIME",
+      "paginaweb": "http://www.flufy.es",
+      "imagencliente": "http://tfwiki.net/mediawiki/images2/thumb/3/37/Optimusg1.jpg/350px-Optimusg1.jpg"
+    },
+    {
+      "idcliente": 7,
+      "nombre": "MICHAEL SCOFIELD",
+      "paginaweb": "http://www.lincolnbarrows.es",
+      "imagencliente": "http://i.stack.imgur.com/0mOiY.jpg"
+    },
+    {
+      "idcliente": 8,
+      "nombre": "CHUCK NORRIS",
+      "paginaweb": "http://www.braddock.es",
+      "imagencliente": "http://image.tmdb.org/t/p/w300/uhPJwyU18EdiwVEZpjbFILZ5hDu.jpg"
+    },
+    {
+      "idcliente": 9,
+      "nombre": "MADMARTIGAN",
+      "paginaweb": "http://www.madmartigan.es",
+      "imagencliente": "http://www.domesticgeekgirl.com/wp-content/uploads/2014/07/Marmartigan-2.jpg"
+    },
+    {
+      "idcliente": 10,
+      "nombre": "JESUS QUINTANA",
+      "paginaweb": "http://www.jesusquintana.es",
+      "imagencliente": "https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2014/06/24/10/john-turturro.jpg"
+    },
+    {
+      "idcliente": 11,
+      "nombre": "MICHAEL KNIGHT",
+      "paginaweb": "http://www.michaelknight.es",
+      "imagencliente": "https://s3.amazonaws.com/rapgenius/39725d1255065377-knight-rider-2008-serie-knightrider1.jpg"
+    },
+    {
+      "idcliente": 12,
+      "nombre": "MARTY MACFLY",
+      "paginaweb": "http://www.backtothefuture.es",
+      "imagencliente": "http://www.zeleb.es/sites/default/files/el-look-de-marty-mcfly.jpg"
+    },
+    {
+      "idcliente": 14,
+      "nombre": "JOHN CONNOR",
+      "paginaweb": "http://tepasmas.com/curiosidades/t2",
+      "imagencliente": "https://meownauts.com/wp-content/uploads/2017/02/1400x0.jpg"
+    },
+    {
+      "idcliente": 15,
+      "nombre": "MICKEY WALSH",
+      "paginaweb": "http://www.punkasspunk.com/goonies/",
+      "imagencliente": "http://www.yofuiaegb.com/wp-content/uploads/2013/04/Sean-Astin-1.jpg"
+    },
+    {
+      "idcliente": 16,
+      "nombre": "DANIEL LARUSSO",
+      "paginaweb": "http://www.karatekid.com",
+      "imagencliente": "http://www.bolsamania.com/cine/wp-content/uploads/2017/03/1-12-600x344.jpg"
+    },
+    {
+      "idcliente": 17,
+      "nombre": "CUCO",
+      "paginaweb": "http://www.cuco.es",
+      "imagencliente": "http://img.desmotivaciones.es/201101/gabino.jpg"
+    },
+    {
+      "idcliente": 18,
+      "nombre": "MAVERICK",
+      "paginaweb": "http://www.topgun.com",
+      "imagencliente": "http://cdn.hitfix.com/photos/5436113/Top-gun-tom-cruise.jpg"
+    },
+    {
+      "idcliente": 19,
+      "nombre": "MIKE DONOVAN",
+      "paginaweb": "http://thevisitors.info",
+      "imagencliente": "http://www.ionlitio.com/images/2009/02/visitantes_donovan.jpg"
+    },
+    {
+      "idcliente": 20,
+      "nombre": "BASTIAN BALTASAR BUX",
+      "paginaweb": "http://www.neverendingstory.com",
+      "imagencliente": "https://s-media-cache-ak0.pinimg.com/originals/0b/33/c7/0b33c7ac45daa48699c50a3bb1d8592a.gif"
+    },
+    {
+      "idcliente": 22,
+      "nombre": "Howard Wolowitz",
+      "paginaweb": "https://es.wikipedia.org/wiki/Howard_Wolowitz",
+      "imagencliente": "http://www.periodicodigitalgratis.com/gratis/imagen/736_20160416040412.jpg"
+    }
+  ]
+}
